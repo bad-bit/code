@@ -1,5 +1,3 @@
-import os
-
 def main():
 	
 	n = int(input("Choose: "))
